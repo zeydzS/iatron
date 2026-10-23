@@ -1,0 +1,1164 @@
+{
+  "procedures": [
+    {
+      "procedure_id": "adolescent-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "source_relative_path": "0 - First aid/Adolescent/Abdominal pain, breathing difficulties and clammy skin - Adolescent FA.vsdx",
+      "source_semantic_node_count": 43,
+      "represented_semantic_node_count": 43,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "adolescent-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "source_relative_path": "0 - First aid/Adolescent/Abnormally pale skin, body is floppy and rigid - Adolescent FA.vsdx",
+      "source_semantic_node_count": 50,
+      "represented_semantic_node_count": 50,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 19,
+      "source_image_placement_count": 19,
+      "guided_image_placement_count": 19
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "source_relative_path": "0 - First aid/Adolescent/Additional sounds when breathing or breathing too fast - Adolescent FA.vsdx",
+      "source_semantic_node_count": 73,
+      "represented_semantic_node_count": 73,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 21,
+      "source_image_placement_count": 17,
+      "guided_image_placement_count": 17
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "source_relative_path": "0 - First aid/Adolescent/Agitation - Adolescent FA.vsdx",
+      "source_semantic_node_count": 61,
+      "represented_semantic_node_count": 61,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 16,
+      "source_image_placement_count": 21,
+      "guided_image_placement_count": 21
+    },
+    {
+      "procedure_id": "adolescent-anaphylaxis",
+      "source_relative_path": "0 - First aid/Adolescent/Anaphylaxis - Adolescent FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "adolescent-asthma",
+      "source_relative_path": "0 - First aid/Adolescent/Asthma - Adolescent FA.vsdx",
+      "source_semantic_node_count": 5,
+      "represented_semantic_node_count": 5,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "adolescent-blue-skin",
+      "source_relative_path": "0 - First aid/Adolescent/Blue skin - Adolescent FA.vsdx",
+      "source_semantic_node_count": 38,
+      "represented_semantic_node_count": 38,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 14,
+      "guided_image_placement_count": 14
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "source_relative_path": "0 - First aid/Adolescent/Breathing is absent, irregular or too slow - Adolescent FA.vsdx",
+      "source_semantic_node_count": 129,
+      "represented_semantic_node_count": 129,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 35,
+      "source_image_placement_count": 41,
+      "guided_image_placement_count": 41
+    },
+    {
+      "procedure_id": "adolescent-cardiac-arrest",
+      "source_relative_path": "0 - First aid/Adolescent/Cardiac arrest - Adolescent FA.vsdx",
+      "source_semantic_node_count": 16,
+      "represented_semantic_node_count": 16,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 9,
+      "guided_image_placement_count": 9
+    },
+    {
+      "procedure_id": "adolescent-cervical-spinal-motion-restriction",
+      "source_relative_path": "0 - First aid/Adolescent/Cervical spinal motion restriction - Adolescent FA.vsdx",
+      "source_semantic_node_count": 12,
+      "represented_semantic_node_count": 12,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 3,
+      "guided_image_placement_count": 3
+    },
+    {
+      "procedure_id": "adolescent-chest-pain",
+      "source_relative_path": "0 - First aid/Adolescent/Chest pain - Adolescent FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "adolescent-choking",
+      "source_relative_path": "0 - First aid/Adolescent/Choking - Adolescent FA.vsdx",
+      "source_semantic_node_count": 17,
+      "represented_semantic_node_count": 17,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 9,
+      "source_image_placement_count": 10,
+      "guided_image_placement_count": 10
+    },
+    {
+      "procedure_id": "adolescent-concussion",
+      "source_relative_path": "0 - First aid/Adolescent/Concussion - Adolescent FA.vsdx",
+      "source_semantic_node_count": 15,
+      "represented_semantic_node_count": 15,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "source_relative_path": "0 - First aid/Adolescent/Confusion and seizures - Adolescent FA.vsdx",
+      "source_semantic_node_count": 66,
+      "represented_semantic_node_count": 66,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 18,
+      "source_image_placement_count": 22,
+      "guided_image_placement_count": 22
+    },
+    {
+      "procedure_id": "adolescent-control-of-life-threatening-bleeding",
+      "source_relative_path": "0 - First aid/Adolescent/Control of life-threatening bleeding - Adolescent FA.vsdx",
+      "source_semantic_node_count": 12,
+      "represented_semantic_node_count": 12,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 4,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "adolescent-disorientation",
+      "source_relative_path": "0 - First aid/Adolescent/Disorientation - Adolescent FA.vsdx",
+      "source_semantic_node_count": 19,
+      "represented_semantic_node_count": 19,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 3,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "adolescent-do-not-react-to-non-painful-touch-stimulation-and-voice",
+      "source_relative_path": "0 - First aid/Adolescent/Do not react to non-painful touch stimulation and voice - Adolescent FA.vsdx",
+      "source_semantic_node_count": 40,
+      "represented_semantic_node_count": 40,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 17,
+      "guided_image_placement_count": 17
+    },
+    {
+      "procedure_id": "adolescent-drowning",
+      "source_relative_path": "0 - First aid/Adolescent/Drowning - Adolescent AF.vsdx",
+      "source_semantic_node_count": 32,
+      "represented_semantic_node_count": 32,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 10,
+      "source_image_placement_count": 15,
+      "guided_image_placement_count": 15
+    },
+    {
+      "procedure_id": "adolescent-heat-stroke",
+      "source_relative_path": "0 - First aid/Adolescent/Heat stroke - Adolescent FA.vsdx",
+      "source_semantic_node_count": 9,
+      "represented_semantic_node_count": 9,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "adolescent-hypoglycaemia",
+      "source_relative_path": "0 - First aid/Adolescent/Hypoglycaemia - Adolescent FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 8,
+      "guided_image_placement_count": 8
+    },
+    {
+      "procedure_id": "adolescent-menu",
+      "source_relative_path": "0 - First aid/Menu - entry point/Menu – Adolescent FA.vsdx",
+      "source_semantic_node_count": 174,
+      "represented_semantic_node_count": 174,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 173,
+      "source_image_placement_count": 0,
+      "guided_image_placement_count": 0
+    },
+    {
+      "procedure_id": "adolescent-no-response-to-touch-and-irregular-breathing",
+      "source_relative_path": "0 - First aid/Adolescent/No response to touch and irregular breathing - Adolescent FA.vsdx",
+      "source_semantic_node_count": 30,
+      "represented_semantic_node_count": 30,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 13,
+      "source_image_placement_count": 12,
+      "guided_image_placement_count": 12
+    },
+    {
+      "procedure_id": "adolescent-open-chest-wounds",
+      "source_relative_path": "0 - First aid/Adolescent/Open chest wounds - Adolescent FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 7,
+      "guided_image_placement_count": 7
+    },
+    {
+      "procedure_id": "adolescent-opiate-or-opioid-poisoning",
+      "source_relative_path": "0 - First aid/Adolescent/Opiate or opioid poisoning - Adolescent FA.vsdx",
+      "source_semantic_node_count": 38,
+      "represented_semantic_node_count": 38,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 19,
+      "guided_image_placement_count": 19
+    },
+    {
+      "procedure_id": "adolescent-preservation-of-an-amputated-body-part",
+      "source_relative_path": "0 - First aid/Adolescent/Preservation of an amputated body part - Adolescent FA.vsdx",
+      "source_semantic_node_count": 2,
+      "represented_semantic_node_count": 2,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "adolescent-snake-bite",
+      "source_relative_path": "0 - First aid/Adolescent/Snake bite - Adolescent FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "adolescent-stroke",
+      "source_relative_path": "0 - First aid/Adolescent/Stroke - Adolescent FA.vsdx",
+      "source_semantic_node_count": 9,
+      "represented_semantic_node_count": 9,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "adolescent-suicidal-thoughts",
+      "source_relative_path": "0 - First aid/Adolescent/Suicidal thoughts - Adolescent FA.vsdx",
+      "source_semantic_node_count": 2,
+      "represented_semantic_node_count": 2,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "adolescent-unresponsiveness-behavioral-change-in-diabetic-or-malnourished",
+      "source_relative_path": "0 - First aid/Adolescent/Unresponsiveness, behavioral change in diabetic or malnourished - Adolescent FA.vsdx",
+      "source_semantic_node_count": 16,
+      "represented_semantic_node_count": 16,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 5,
+      "source_image_placement_count": 10,
+      "guided_image_placement_count": 10
+    },
+    {
+      "procedure_id": "adolescent-vomiting",
+      "source_relative_path": "0 - First aid/Adolescent/Vomiting - Adolescent FA.vsdx",
+      "source_semantic_node_count": 45,
+      "represented_semantic_node_count": 45,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 8,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "adult-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "source_relative_path": "0 - First aid/Adult/Abdominal pain, breathing difficulties and clammy skin – Adult FA.vsdx",
+      "source_semantic_node_count": 41,
+      "represented_semantic_node_count": 41,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "adult-agitation-and-disorientation",
+      "source_relative_path": "0 - First aid/Adult/Agitation and disorientation - Adult FA.vsdx",
+      "source_semantic_node_count": 18,
+      "represented_semantic_node_count": 18,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 4,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "adult-anaphylaxis",
+      "source_relative_path": "0 - First aid/Adult/Anaphylaxis - Adult FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "adult-asthma",
+      "source_relative_path": "0 - First aid/Adult/Asthma - Adult FA.vsdx",
+      "source_semantic_node_count": 5,
+      "represented_semantic_node_count": 5,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "adult-breathing-is-absent-irregular-or-too-slow",
+      "source_relative_path": "0 - First aid/Adult/Breathing is absent, irregular or too slow - Adult FA.vsdx",
+      "source_semantic_node_count": 35,
+      "represented_semantic_node_count": 35,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 16,
+      "source_image_placement_count": 17,
+      "guided_image_placement_count": 17
+    },
+    {
+      "procedure_id": "adult-cardiac-arrest",
+      "source_relative_path": "0 - First aid/Adult/Cardiac arrest - Adult FA.vsdx",
+      "source_semantic_node_count": 9,
+      "represented_semantic_node_count": 9,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 8,
+      "guided_image_placement_count": 8
+    },
+    {
+      "procedure_id": "adult-cervical-spinal-motion-restriction",
+      "source_relative_path": "0 - First aid/Adult/Cervical spinal motion restriction - Adult FA.vsdx",
+      "source_semantic_node_count": 12,
+      "represented_semantic_node_count": 12,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 3,
+      "guided_image_placement_count": 3
+    },
+    {
+      "procedure_id": "adult-chest-pain",
+      "source_relative_path": "0 - First aid/Adult/Chest pain - Adult FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 3,
+      "guided_image_placement_count": 3
+    },
+    {
+      "procedure_id": "adult-choking",
+      "source_relative_path": "0 - First aid/Adult/Choking - Adult FA.vsdx",
+      "source_semantic_node_count": 11,
+      "represented_semantic_node_count": 11,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 9,
+      "source_image_placement_count": 9,
+      "guided_image_placement_count": 9
+    },
+    {
+      "procedure_id": "adult-concussion",
+      "source_relative_path": "0 - First aid/Adult/Concussion - Adult FA.vsdx",
+      "source_semantic_node_count": 16,
+      "represented_semantic_node_count": 16,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 15,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "source_relative_path": "0 - First aid/Adult/Confusion and seizures - Adult FA.vsdx",
+      "source_semantic_node_count": 51,
+      "represented_semantic_node_count": 51,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 18,
+      "source_image_placement_count": 21,
+      "guided_image_placement_count": 21
+    },
+    {
+      "procedure_id": "adult-control-of-life-threatening-bleeding",
+      "source_relative_path": "0 - First aid/Adult/Control of life-threatening bleeding - Adult FA.vsdx",
+      "source_semantic_node_count": 12,
+      "represented_semantic_node_count": 12,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 4,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "adult-drowning",
+      "source_relative_path": "0 - First aid/Adult/Drowning - Adult AF.vsdx",
+      "source_semantic_node_count": 23,
+      "represented_semantic_node_count": 23,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 10,
+      "source_image_placement_count": 14,
+      "guided_image_placement_count": 14
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "source_relative_path": "0 - First aid/Adult/Extremely drowsy, unresponsiveness and very small pupils - Adult FA.vsdx",
+      "source_semantic_node_count": 62,
+      "represented_semantic_node_count": 62,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 21,
+      "source_image_placement_count": 31,
+      "guided_image_placement_count": 31
+    },
+    {
+      "procedure_id": "adult-gasping-groaning-gurgling-in-an-unconscious-victim",
+      "source_relative_path": "0 - First aid/Adult/Gasping, groaning, gurgling in an unconscious victim – Adult FA.vsdx",
+      "source_semantic_node_count": 24,
+      "represented_semantic_node_count": 24,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 16,
+      "source_image_placement_count": 10,
+      "guided_image_placement_count": 10
+    },
+    {
+      "procedure_id": "adult-heat-stroke",
+      "source_relative_path": "0 - First aid/Adult/Heat stroke - Adult FA.vsdx",
+      "source_semantic_node_count": 9,
+      "represented_semantic_node_count": 9,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "adult-hypoglycaemia",
+      "source_relative_path": "0 - First aid/Adult/Hypoglycaemia - Adult FA.vsdx",
+      "source_semantic_node_count": 2,
+      "represented_semantic_node_count": 2,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 8,
+      "guided_image_placement_count": 8
+    },
+    {
+      "procedure_id": "adult-menu",
+      "source_relative_path": "0 - First aid/Menu - entry point/Menu – Adult FA.vsdx",
+      "source_semantic_node_count": 152,
+      "represented_semantic_node_count": 152,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 150,
+      "source_image_placement_count": 0,
+      "guided_image_placement_count": 0
+    },
+    {
+      "procedure_id": "adult-open-chest-wounds",
+      "source_relative_path": "0 - First aid/Adult/Open chest wounds - Adult FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 7,
+      "guided_image_placement_count": 7
+    },
+    {
+      "procedure_id": "adult-opiate-or-opioid-poisoning",
+      "source_relative_path": "0 - First aid/Adult/Opiate or opioid poisoning - Adult FA.vsdx",
+      "source_semantic_node_count": 35,
+      "represented_semantic_node_count": 35,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 11,
+      "source_image_placement_count": 17,
+      "guided_image_placement_count": 17
+    },
+    {
+      "procedure_id": "adult-preservation-of-an-amputated-body-part",
+      "source_relative_path": "0 - First aid/Adult/Preservation of an amputated body part - Adult FA.vsdx",
+      "source_semantic_node_count": 2,
+      "represented_semantic_node_count": 2,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "adult-snake-bite",
+      "source_relative_path": "0 - First aid/Adult/Snake bite - Adult FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "adult-stroke",
+      "source_relative_path": "0 - First aid/Adult/Stroke - Adult FA.vsdx",
+      "source_semantic_node_count": 7,
+      "represented_semantic_node_count": 7,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 6,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "adult-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-person",
+      "source_relative_path": "0 - First aid/Adult/Sudden unresponsiveness and behavioral change in diabetic or malnourished person - Adult FA.vsdx",
+      "source_semantic_node_count": 14,
+      "represented_semantic_node_count": 14,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 5,
+      "source_image_placement_count": 10,
+      "guided_image_placement_count": 10
+    },
+    {
+      "procedure_id": "adult-suicidal-thoughts",
+      "source_relative_path": "0 - First aid/Adult/Suicidal thoughts - Adult FA.vsdx",
+      "source_semantic_node_count": 2,
+      "represented_semantic_node_count": 2,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "adult-unconscious",
+      "source_relative_path": "0 - First aid/Adult/Unconscious – Adult FA.vsdx",
+      "source_semantic_node_count": 44,
+      "represented_semantic_node_count": 44,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 21,
+      "guided_image_placement_count": 21
+    },
+    {
+      "procedure_id": "adult-vomiting",
+      "source_relative_path": "0 - First aid/Adult/Vomiting - Adult FA.vsdx",
+      "source_semantic_node_count": 43,
+      "represented_semantic_node_count": 43,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 8,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "child-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "source_relative_path": "0 - First aid/Child/Abdominal pain, breathing difficulties and clammy skin - Child FA.vsdx",
+      "source_semantic_node_count": 43,
+      "represented_semantic_node_count": 43,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "child-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "source_relative_path": "0 - First aid/Child/Abnormally pale skin, body is floppy and rigid - Child FA.vsdx",
+      "source_semantic_node_count": 47,
+      "represented_semantic_node_count": 47,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 18,
+      "source_image_placement_count": 21,
+      "guided_image_placement_count": 21
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "source_relative_path": "0 - First aid/Child/Additional sounds when breathing or breathing too fast - Child FA.vsdx",
+      "source_semantic_node_count": 73,
+      "represented_semantic_node_count": 73,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 21,
+      "source_image_placement_count": 19,
+      "guided_image_placement_count": 19
+    },
+    {
+      "procedure_id": "child-agitation",
+      "source_relative_path": "0 - First aid/Child/Agitation - Child FA.vsdx",
+      "source_semantic_node_count": 58,
+      "represented_semantic_node_count": 58,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 16,
+      "source_image_placement_count": 22,
+      "guided_image_placement_count": 22
+    },
+    {
+      "procedure_id": "child-anaphylaxis",
+      "source_relative_path": "0 - First aid/Child/Anaphylaxis - Child FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "child-asthma",
+      "source_relative_path": "0 - First aid/Child/Asthma - Child FA.vsdx",
+      "source_semantic_node_count": 5,
+      "represented_semantic_node_count": 5,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "child-blue-skin",
+      "source_relative_path": "0 - First aid/Child/Blue skin - Child FA.vsdx",
+      "source_semantic_node_count": 37,
+      "represented_semantic_node_count": 37,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 16,
+      "guided_image_placement_count": 16
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "source_relative_path": "0 - First aid/Child/Breathing is absent, irregular or too slow - Child FA.vsdx",
+      "source_semantic_node_count": 128,
+      "represented_semantic_node_count": 128,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 35,
+      "source_image_placement_count": 44,
+      "guided_image_placement_count": 44
+    },
+    {
+      "procedure_id": "child-cardiac-arrest",
+      "source_relative_path": "0 - First aid/Child/Cardiac arrest - Child FA.vsdx",
+      "source_semantic_node_count": 18,
+      "represented_semantic_node_count": 18,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 11,
+      "guided_image_placement_count": 11
+    },
+    {
+      "procedure_id": "child-cervical-spinal-motion-restriction",
+      "source_relative_path": "0 - First aid/Child/Cervical spinal motion restriction - Child FA.vsdx",
+      "source_semantic_node_count": 12,
+      "represented_semantic_node_count": 12,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 3,
+      "guided_image_placement_count": 3
+    },
+    {
+      "procedure_id": "child-chest-pain",
+      "source_relative_path": "0 - First aid/Child/Chest pain - Child FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "child-choking",
+      "source_relative_path": "0 - First aid/Child/Choking - Child FA.vsdx",
+      "source_semantic_node_count": 19,
+      "represented_semantic_node_count": 19,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 9,
+      "source_image_placement_count": 12,
+      "guided_image_placement_count": 12
+    },
+    {
+      "procedure_id": "child-concussion",
+      "source_relative_path": "0 - First aid/Child/Concussion - Child FA.vsdx",
+      "source_semantic_node_count": 15,
+      "represented_semantic_node_count": 15,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "source_relative_path": "0 - First aid/Child/Confusion and seizures - Child FA.vsdx",
+      "source_semantic_node_count": 57,
+      "represented_semantic_node_count": 57,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 16,
+      "source_image_placement_count": 21,
+      "guided_image_placement_count": 21
+    },
+    {
+      "procedure_id": "child-control-of-life-threatening-bleeding",
+      "source_relative_path": "0 - First aid/Child/Control of life-threatening bleeding - Child FA.vsdx",
+      "source_semantic_node_count": 12,
+      "represented_semantic_node_count": 12,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 4,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "child-difficult-to-rouse-unresponsive-to-touch-and-voice",
+      "source_relative_path": "0 - First aid/Child/Difficult to rouse, unresponsive to touch and voice - Child FA.vsdx",
+      "source_semantic_node_count": 40,
+      "represented_semantic_node_count": 40,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 15,
+      "source_image_placement_count": 19,
+      "guided_image_placement_count": 19
+    },
+    {
+      "procedure_id": "child-disorientation",
+      "source_relative_path": "0 - First aid/Child/Disorientation - Child FA.vsdx",
+      "source_semantic_node_count": 18,
+      "represented_semantic_node_count": 18,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 3,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "child-drowning",
+      "source_relative_path": "0 - First aid/Child/Drowning - Child AF.vsdx",
+      "source_semantic_node_count": 30,
+      "represented_semantic_node_count": 30,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 10,
+      "source_image_placement_count": 16,
+      "guided_image_placement_count": 16
+    },
+    {
+      "procedure_id": "child-heat-stroke",
+      "source_relative_path": "0 - First aid/Child/Heat stroke - Child FA.vsdx",
+      "source_semantic_node_count": 9,
+      "represented_semantic_node_count": 9,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "child-hypoglycaemia",
+      "source_relative_path": "0 - First aid/Child/Hypoglycaemia - Child FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 8,
+      "guided_image_placement_count": 8
+    },
+    {
+      "procedure_id": "child-menu",
+      "source_relative_path": "0 - First aid/Menu - entry point/Menu – Child FA.vsdx",
+      "source_semantic_node_count": 174,
+      "represented_semantic_node_count": 174,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 173,
+      "source_image_placement_count": 0,
+      "guided_image_placement_count": 0
+    },
+    {
+      "procedure_id": "child-open-chest-wounds",
+      "source_relative_path": "0 - First aid/Child/Open chest wounds - Child FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 7,
+      "guided_image_placement_count": 7
+    },
+    {
+      "procedure_id": "child-opiate-or-opioid-poisoning",
+      "source_relative_path": "0 - First aid/Child/Opiate or opioid poisoning - Child FA.vsdx",
+      "source_semantic_node_count": 38,
+      "represented_semantic_node_count": 38,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 21,
+      "guided_image_placement_count": 21
+    },
+    {
+      "procedure_id": "child-preservation-of-an-amputated-body-part",
+      "source_relative_path": "0 - First aid/Child/Preservation of an amputated body part - Child FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "child-snake-bite",
+      "source_relative_path": "0 - First aid/Child/Snake bite - Child FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "child-stroke",
+      "source_relative_path": "0 - First aid/Child/Stroke - Child FA.vsdx",
+      "source_semantic_node_count": 9,
+      "represented_semantic_node_count": 9,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "child-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-child",
+      "source_relative_path": "0 - First aid/Child/Sudden unresponsiveness and behavioral change in diabetic or malnourished child - Child FA.vsdx",
+      "source_semantic_node_count": 16,
+      "represented_semantic_node_count": 16,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 5,
+      "source_image_placement_count": 10,
+      "guided_image_placement_count": 10
+    },
+    {
+      "procedure_id": "child-suicidal-thoughts",
+      "source_relative_path": "0 - First aid/Child/Suicidal thoughts - Child FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "child-unresponsive-to-touch-and-irregular-breathing",
+      "source_relative_path": "0 - First aid/Child/Unresponsive to touch and irregular breathing - Child FA.vsdx",
+      "source_semantic_node_count": 30,
+      "represented_semantic_node_count": 30,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 14,
+      "guided_image_placement_count": 14
+    },
+    {
+      "procedure_id": "child-vomiting",
+      "source_relative_path": "0 - First aid/Child/Vomiting - Child FA.vsdx",
+      "source_semantic_node_count": 45,
+      "represented_semantic_node_count": 45,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 8,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "infant-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "source_relative_path": "0 - First aid/Infant/Abdominal pain, breathing difficulties and clammy skin - Infant FA.vsdx",
+      "source_semantic_node_count": 43,
+      "represented_semantic_node_count": 43,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 14,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "infant-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "source_relative_path": "0 - First aid/Infant/Abnormally pale skin, body is floppy and rigid - Infant FA.vsdx",
+      "source_semantic_node_count": 41,
+      "represented_semantic_node_count": 41,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 18,
+      "source_image_placement_count": 14,
+      "guided_image_placement_count": 14
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "source_relative_path": "0 - First aid/Infant/Additional sounds when breathing or breathing too fast - Infant FA.vsdx",
+      "source_semantic_node_count": 69,
+      "represented_semantic_node_count": 69,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 21,
+      "source_image_placement_count": 15,
+      "guided_image_placement_count": 15
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "source_relative_path": "0 - First aid/Infant/Agitation – Infant FA.vsdx",
+      "source_semantic_node_count": 48,
+      "represented_semantic_node_count": 48,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 16,
+      "source_image_placement_count": 14,
+      "guided_image_placement_count": 14
+    },
+    {
+      "procedure_id": "infant-anaphylaxis",
+      "source_relative_path": "0 - First aid/Infant/Anaphylaxis - Infant FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "infant-asthma",
+      "source_relative_path": "0 - First aid/Infant/Asthma - Infant FA.vsdx",
+      "source_semantic_node_count": 5,
+      "represented_semantic_node_count": 5,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "infant-blue-skin",
+      "source_relative_path": "0 - First aid/Infant/Blue skin - Infant FA.vsdx",
+      "source_semantic_node_count": 33,
+      "represented_semantic_node_count": 33,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 12,
+      "guided_image_placement_count": 12
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "source_relative_path": "0 - First aid/Infant/Breathing is absent, irregular or too slow - Infant FA.vsdx",
+      "source_semantic_node_count": 77,
+      "represented_semantic_node_count": 77,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 24,
+      "source_image_placement_count": 21,
+      "guided_image_placement_count": 21
+    },
+    {
+      "procedure_id": "infant-cardiac-arrest",
+      "source_relative_path": "0 - First aid/Infant/Cardiac arrest - Infant FA.vsdx",
+      "source_semantic_node_count": 14,
+      "represented_semantic_node_count": 14,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 7,
+      "source_image_placement_count": 7,
+      "guided_image_placement_count": 7
+    },
+    {
+      "procedure_id": "infant-cervical-spinal-motion-restriction",
+      "source_relative_path": "0 - First aid/Infant/Cervical spinal motion restriction - Infant FA.vsdx",
+      "source_semantic_node_count": 7,
+      "represented_semantic_node_count": 7,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 5,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "infant-choking",
+      "source_relative_path": "0 - First aid/Infant/Choking - Infant FA.vsdx",
+      "source_semantic_node_count": 14,
+      "represented_semantic_node_count": 14,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 8,
+      "source_image_placement_count": 9,
+      "guided_image_placement_count": 9
+    },
+    {
+      "procedure_id": "infant-concussion",
+      "source_relative_path": "0 - First aid/Infant/Concussion - Infant FA.vsdx",
+      "source_semantic_node_count": 6,
+      "represented_semantic_node_count": 6,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 5,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "infant-confusion-difficult-to-rouse-unresponsive-to-touch",
+      "source_relative_path": "0 - First aid/Infant/Confusion, difficult to rouse, unresponsive to touch - Infant FA.vsdx",
+      "source_semantic_node_count": 36,
+      "represented_semantic_node_count": 36,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 16,
+      "source_image_placement_count": 13,
+      "guided_image_placement_count": 13
+    },
+    {
+      "procedure_id": "infant-control-of-life-threatening-bleeding",
+      "source_relative_path": "0 - First aid/Infant/Control of life-threatening bleeding - Infant FA.vsdx",
+      "source_semantic_node_count": 12,
+      "represented_semantic_node_count": 12,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 4,
+      "source_image_placement_count": 3,
+      "guided_image_placement_count": 3
+    },
+    {
+      "procedure_id": "infant-cries-inconsolably",
+      "source_relative_path": "0 - First aid/Infant/Cries inconsolably - Infant FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "infant-drowning",
+      "source_relative_path": "0 - First aid/Infant/Drowning - Infant AF.vsdx",
+      "source_semantic_node_count": 25,
+      "represented_semantic_node_count": 25,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 10,
+      "source_image_placement_count": 10,
+      "guided_image_placement_count": 10
+    },
+    {
+      "procedure_id": "infant-heat-stroke",
+      "source_relative_path": "0 - First aid/Infant/Heat stroke - Infant FA.vsdx",
+      "source_semantic_node_count": 4,
+      "represented_semantic_node_count": 4,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 1,
+      "guided_image_placement_count": 1
+    },
+    {
+      "procedure_id": "infant-hypoglycaemia",
+      "source_relative_path": "0 - First aid/Infant/Hypoglycaemia - Infant FA.vsdx",
+      "source_semantic_node_count": 4,
+      "represented_semantic_node_count": 4,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 3,
+      "source_image_placement_count": 5,
+      "guided_image_placement_count": 5
+    },
+    {
+      "procedure_id": "infant-lethargy",
+      "source_relative_path": "0 - First aid/Infant/Lethargy - Infant FA.vsdx",
+      "source_semantic_node_count": 13,
+      "represented_semantic_node_count": 13,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 3,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "infant-menu",
+      "source_relative_path": "0 - First aid/Menu - entry point/Menu – Infant FA.vsdx",
+      "source_semantic_node_count": 152,
+      "represented_semantic_node_count": 152,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 151,
+      "source_image_placement_count": 0,
+      "guided_image_placement_count": 0
+    },
+    {
+      "procedure_id": "infant-open-chest-wounds",
+      "source_relative_path": "0 - First aid/Infant/Open chest wounds - Infant FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 7,
+      "guided_image_placement_count": 7
+    },
+    {
+      "procedure_id": "infant-opiate-or-opioid-poisoning",
+      "source_relative_path": "0 - First aid/Infant/Opiate or opioid poisoning - Infant FA.vsdx",
+      "source_semantic_node_count": 33,
+      "represented_semantic_node_count": 33,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 15,
+      "guided_image_placement_count": 15
+    },
+    {
+      "procedure_id": "infant-preservation-of-an-amputated-body-part",
+      "source_relative_path": "0 - First aid/Infant/Preservation of an amputated body part - Infant FA.vsdx",
+      "source_semantic_node_count": 3,
+      "represented_semantic_node_count": 3,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 4,
+      "guided_image_placement_count": 4
+    },
+    {
+      "procedure_id": "infant-seizures",
+      "source_relative_path": "0 - First aid/Infant/Seizures - Infant FA.vsdx",
+      "source_semantic_node_count": 17,
+      "represented_semantic_node_count": 17,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 4,
+      "source_image_placement_count": 3,
+      "guided_image_placement_count": 3
+    },
+    {
+      "procedure_id": "infant-snake-bite",
+      "source_relative_path": "0 - First aid/Infant/Snake bite - Infant FA.vsdx",
+      "source_semantic_node_count": 4,
+      "represented_semantic_node_count": 4,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 1,
+      "source_image_placement_count": 0,
+      "guided_image_placement_count": 0
+    },
+    {
+      "procedure_id": "infant-stroke",
+      "source_relative_path": "0 - First aid/Infant/Stroke - Infant FA.vsdx",
+      "source_semantic_node_count": 10,
+      "represented_semantic_node_count": 10,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 9,
+      "source_image_placement_count": 2,
+      "guided_image_placement_count": 2
+    },
+    {
+      "procedure_id": "infant-unresponsive-to-touch-and-irregular-breathing",
+      "source_relative_path": "0 - First aid/Infant/Unresponsive to touch and irregular breathing - Infant FA.vsdx",
+      "source_semantic_node_count": 26,
+      "represented_semantic_node_count": 26,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 12,
+      "source_image_placement_count": 10,
+      "guided_image_placement_count": 10
+    },
+    {
+      "procedure_id": "infant-vomiting",
+      "source_relative_path": "0 - First aid/Infant/Vomiting - Infant FA.vsdx",
+      "source_semantic_node_count": 45,
+      "represented_semantic_node_count": 45,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 8,
+      "source_image_placement_count": 6,
+      "guided_image_placement_count": 6
+    },
+    {
+      "procedure_id": "main-menu-fa-entry-point",
+      "source_relative_path": "0 - First aid/Menu - entry point/Main menu - FA (entry point).vsdx",
+      "source_semantic_node_count": 10,
+      "represented_semantic_node_count": 10,
+      "missing_semantic_nodes": [],
+      "source_connector_count": 9,
+      "source_image_placement_count": 0,
+      "guided_image_placement_count": 0
+    }
+  ]
+}

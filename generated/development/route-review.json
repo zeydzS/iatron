@@ -1,0 +1,2287 @@
+{
+  "items": [
+    {
+      "procedure_id": "adolescent-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "adolescent-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "adolescent-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "adolescent-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5183",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5303"
+    },
+    {
+      "procedure_id": "adolescent-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5183",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5298"
+    },
+    {
+      "procedure_id": "adolescent-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5183",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5299"
+    },
+    {
+      "procedure_id": "adolescent-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5324",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5408"
+    },
+    {
+      "procedure_id": "adolescent-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5324",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5407"
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5064",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5150"
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5064",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5151"
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5324",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5408"
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5324",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5407"
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5450",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5647"
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5450",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5650"
+    },
+    {
+      "procedure_id": "adolescent-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5450",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5653"
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "choice_source_shape_id": "5183",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5303"
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "choice_source_shape_id": "5183",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5298"
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "choice_source_shape_id": "5183",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5299"
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "choice_source_shape_id": "5324",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5408"
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "choice_source_shape_id": "5324",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5407"
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "choice_source_shape_id": "5444",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5529"
+    },
+    {
+      "procedure_id": "adolescent-agitation",
+      "choice_source_shape_id": "5444",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5530"
+    },
+    {
+      "procedure_id": "adolescent-blue-skin",
+      "choice_source_shape_id": "5064",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5150"
+    },
+    {
+      "procedure_id": "adolescent-blue-skin",
+      "choice_source_shape_id": "5064",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5151"
+    },
+    {
+      "procedure_id": "adolescent-blue-skin",
+      "choice_source_shape_id": "5324",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5408"
+    },
+    {
+      "procedure_id": "adolescent-blue-skin",
+      "choice_source_shape_id": "5324",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5407"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5787",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7806"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5787",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6289"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5787",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "7277"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7323",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7407"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7323",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7408"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7410",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7494"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7410",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7493"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7722",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7806"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7722",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7807"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7809",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7893"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7809",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7892"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7902",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "8088"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7902",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "8091"
+    },
+    {
+      "procedure_id": "adolescent-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7902",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "8093"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5183",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5303"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5183",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5298"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5183",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5299"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5324",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5408"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5324",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5407"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5541",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5529"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5541",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5626"
+    },
+    {
+      "procedure_id": "adolescent-confusion-and-seizures",
+      "choice_source_shape_id": "5541",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5530"
+    },
+    {
+      "procedure_id": "adolescent-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5554"
+    },
+    {
+      "procedure_id": "adolescent-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5555"
+    },
+    {
+      "procedure_id": "adolescent-disorientation",
+      "choice_source_shape_id": "5537",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5624"
+    },
+    {
+      "procedure_id": "adolescent-disorientation",
+      "choice_source_shape_id": "5537",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5625"
+    },
+    {
+      "procedure_id": "adolescent-do-not-react-to-non-painful-touch-stimulation-and-voice",
+      "choice_source_shape_id": "4923",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5007"
+    },
+    {
+      "procedure_id": "adolescent-do-not-react-to-non-painful-touch-stimulation-and-voice",
+      "choice_source_shape_id": "4923",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5006"
+    },
+    {
+      "procedure_id": "adolescent-do-not-react-to-non-painful-touch-stimulation-and-voice",
+      "choice_source_shape_id": "5324",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5408"
+    },
+    {
+      "procedure_id": "adolescent-do-not-react-to-non-painful-touch-stimulation-and-voice",
+      "choice_source_shape_id": "5324",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5407"
+    },
+    {
+      "procedure_id": "adolescent-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5635"
+    },
+    {
+      "procedure_id": "adolescent-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5638"
+    },
+    {
+      "procedure_id": "adolescent-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5637"
+    },
+    {
+      "procedure_id": "adolescent-no-response-to-touch-and-irregular-breathing",
+      "choice_source_shape_id": "5324",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5408"
+    },
+    {
+      "procedure_id": "adolescent-no-response-to-touch-and-irregular-breathing",
+      "choice_source_shape_id": "5324",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5407"
+    },
+    {
+      "procedure_id": "adolescent-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "7323",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "7407"
+    },
+    {
+      "procedure_id": "adolescent-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "7323",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "7408"
+    },
+    {
+      "procedure_id": "adolescent-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "7410",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "7494"
+    },
+    {
+      "procedure_id": "adolescent-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "7410",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "7493"
+    },
+    {
+      "procedure_id": "adolescent-unresponsiveness-behavioral-change-in-diabetic-or-malnourished",
+      "choice_source_shape_id": "4226",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4315"
+    },
+    {
+      "procedure_id": "adolescent-unresponsiveness-behavioral-change-in-diabetic-or-malnourished",
+      "choice_source_shape_id": "4226",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4316"
+    },
+    {
+      "procedure_id": "adolescent-unresponsiveness-behavioral-change-in-diabetic-or-malnourished",
+      "choice_source_shape_id": "4226",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4317"
+    },
+    {
+      "procedure_id": "adolescent-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "adolescent-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "adolescent-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "adolescent-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4681"
+    },
+    {
+      "procedure_id": "adolescent-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4684"
+    },
+    {
+      "procedure_id": "adolescent-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4686"
+    },
+    {
+      "procedure_id": "adult-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "adult-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "adult-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "adult-agitation-and-disorientation",
+      "choice_source_shape_id": "5539",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5628"
+    },
+    {
+      "procedure_id": "adult-agitation-and-disorientation",
+      "choice_source_shape_id": "5539",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5633"
+    },
+    {
+      "procedure_id": "adult-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "4438",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5431"
+    },
+    {
+      "procedure_id": "adult-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "4438",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5433"
+    },
+    {
+      "procedure_id": "adult-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5260",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "4524"
+    },
+    {
+      "procedure_id": "adult-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5260",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5343"
+    },
+    {
+      "procedure_id": "adult-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5348",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5436"
+    },
+    {
+      "procedure_id": "adult-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5348",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "4521"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5647",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5628"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5647",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5645"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5647",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5633"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5744",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5837"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5744",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5834"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5744",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5835"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5843",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5927"
+    },
+    {
+      "procedure_id": "adult-confusion-and-seizures",
+      "choice_source_shape_id": "5843",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5926"
+    },
+    {
+      "procedure_id": "adult-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5554"
+    },
+    {
+      "procedure_id": "adult-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5555"
+    },
+    {
+      "procedure_id": "adult-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5577"
+    },
+    {
+      "procedure_id": "adult-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5561"
+    },
+    {
+      "procedure_id": "adult-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5562"
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "choice_source_shape_id": "3337",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5088"
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "choice_source_shape_id": "4064",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "4165"
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "choice_source_shape_id": "4064",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "4155"
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "choice_source_shape_id": "4898",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "4983"
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "choice_source_shape_id": "4898",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "4984"
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "choice_source_shape_id": "5092",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5088"
+    },
+    {
+      "procedure_id": "adult-extremely-drowsy-unresponsiveness-and-very-small-pupils",
+      "choice_source_shape_id": "5092",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5089"
+    },
+    {
+      "procedure_id": "adult-gasping-groaning-gurgling-in-an-unconscious-victim",
+      "choice_source_shape_id": "4438",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4524"
+    },
+    {
+      "procedure_id": "adult-gasping-groaning-gurgling-in-an-unconscious-victim",
+      "choice_source_shape_id": "4438",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4521"
+    },
+    {
+      "procedure_id": "adult-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "3337",
+      "result_code": "1",
+      "status": "unresolved_no_source_router"
+    },
+    {
+      "procedure_id": "adult-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-person",
+      "choice_source_shape_id": "4226",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4315"
+    },
+    {
+      "procedure_id": "adult-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-person",
+      "choice_source_shape_id": "4226",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4316"
+    },
+    {
+      "procedure_id": "adult-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-person",
+      "choice_source_shape_id": "4226",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4317"
+    },
+    {
+      "procedure_id": "adult-unconscious",
+      "choice_source_shape_id": "3337",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4165"
+    },
+    {
+      "procedure_id": "adult-unconscious",
+      "choice_source_shape_id": "4064",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4165"
+    },
+    {
+      "procedure_id": "adult-unconscious",
+      "choice_source_shape_id": "4064",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4155"
+    },
+    {
+      "procedure_id": "adult-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "adult-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "adult-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "adult-vomiting",
+      "choice_source_shape_id": "4593",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4681"
+    },
+    {
+      "procedure_id": "adult-vomiting",
+      "choice_source_shape_id": "4593",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4683"
+    },
+    {
+      "procedure_id": "adult-vomiting",
+      "choice_source_shape_id": "4593",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4685"
+    },
+    {
+      "procedure_id": "child-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "child-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "child-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "child-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5303",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5395"
+    },
+    {
+      "procedure_id": "child-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5303",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5392"
+    },
+    {
+      "procedure_id": "child-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5303",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5393"
+    },
+    {
+      "procedure_id": "child-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5413",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5497"
+    },
+    {
+      "procedure_id": "child-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5413",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5496"
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5200",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5284"
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5200",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5285"
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5413",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5497"
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5413",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5496"
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5542",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5739"
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5542",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5742"
+    },
+    {
+      "procedure_id": "child-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5542",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5745"
+    },
+    {
+      "procedure_id": "child-agitation",
+      "choice_source_shape_id": "5303",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5395"
+    },
+    {
+      "procedure_id": "child-agitation",
+      "choice_source_shape_id": "5303",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5392"
+    },
+    {
+      "procedure_id": "child-agitation",
+      "choice_source_shape_id": "5303",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5393"
+    },
+    {
+      "procedure_id": "child-agitation",
+      "choice_source_shape_id": "5413",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5497"
+    },
+    {
+      "procedure_id": "child-agitation",
+      "choice_source_shape_id": "5413",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5496"
+    },
+    {
+      "procedure_id": "child-agitation",
+      "choice_source_shape_id": "5535",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5623"
+    },
+    {
+      "procedure_id": "child-agitation",
+      "choice_source_shape_id": "5535",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5624"
+    },
+    {
+      "procedure_id": "child-blue-skin",
+      "choice_source_shape_id": "5200",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5284"
+    },
+    {
+      "procedure_id": "child-blue-skin",
+      "choice_source_shape_id": "5200",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5285"
+    },
+    {
+      "procedure_id": "child-blue-skin",
+      "choice_source_shape_id": "5413",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5497"
+    },
+    {
+      "procedure_id": "child-blue-skin",
+      "choice_source_shape_id": "5413",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5496"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5787",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6977"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5787",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6289"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5787",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "7277"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6492",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6576"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6492",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6577"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6580",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6664"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6580",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6663"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6893",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6977"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6893",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "6978"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6981",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7065"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "6981",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 5,
+      "selected_router_source_shape_id": "7064"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7073",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "7307"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7073",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "7262"
+    },
+    {
+      "procedure_id": "child-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "7073",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "7264"
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "choice_source_shape_id": "4923",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5007"
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "choice_source_shape_id": "4923",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5006"
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "choice_source_shape_id": "5413",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5497"
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "choice_source_shape_id": "5413",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5496"
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "choice_source_shape_id": "5765",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5722"
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "choice_source_shape_id": "5765",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5850"
+    },
+    {
+      "procedure_id": "child-confusion-and-seizures",
+      "choice_source_shape_id": "5765",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5723"
+    },
+    {
+      "procedure_id": "child-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5554"
+    },
+    {
+      "procedure_id": "child-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5555"
+    },
+    {
+      "procedure_id": "child-difficult-to-rouse-unresponsive-to-touch-and-voice",
+      "choice_source_shape_id": "4923",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5007"
+    },
+    {
+      "procedure_id": "child-difficult-to-rouse-unresponsive-to-touch-and-voice",
+      "choice_source_shape_id": "4923",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5006"
+    },
+    {
+      "procedure_id": "child-difficult-to-rouse-unresponsive-to-touch-and-voice",
+      "choice_source_shape_id": "5413",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5497"
+    },
+    {
+      "procedure_id": "child-difficult-to-rouse-unresponsive-to-touch-and-voice",
+      "choice_source_shape_id": "5413",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5496"
+    },
+    {
+      "procedure_id": "child-disorientation",
+      "choice_source_shape_id": "5539",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5629"
+    },
+    {
+      "procedure_id": "child-disorientation",
+      "choice_source_shape_id": "5539",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5630"
+    },
+    {
+      "procedure_id": "child-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5603"
+    },
+    {
+      "procedure_id": "child-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5561"
+    },
+    {
+      "procedure_id": "child-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5562"
+    },
+    {
+      "procedure_id": "child-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "6492",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "7311"
+    },
+    {
+      "procedure_id": "child-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "6492",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "6577"
+    },
+    {
+      "procedure_id": "child-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "6580",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "6664"
+    },
+    {
+      "procedure_id": "child-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "6580",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "6663"
+    },
+    {
+      "procedure_id": "child-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-child",
+      "choice_source_shape_id": "4226",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4315"
+    },
+    {
+      "procedure_id": "child-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-child",
+      "choice_source_shape_id": "4226",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4316"
+    },
+    {
+      "procedure_id": "child-sudden-unresponsiveness-and-behavioral-change-in-diabetic-or-malnourished-child",
+      "choice_source_shape_id": "4226",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4317"
+    },
+    {
+      "procedure_id": "child-unresponsive-to-touch-and-irregular-breathing",
+      "choice_source_shape_id": "5413",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5497"
+    },
+    {
+      "procedure_id": "child-unresponsive-to-touch-and-irregular-breathing",
+      "choice_source_shape_id": "5413",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5496"
+    },
+    {
+      "procedure_id": "child-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "child-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "child-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "child-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4681"
+    },
+    {
+      "procedure_id": "child-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4683"
+    },
+    {
+      "procedure_id": "child-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4684"
+    },
+    {
+      "procedure_id": "infant-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "infant-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "infant-abdominal-pain-breathing-difficulties-and-clammy-skin",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "infant-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5399",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5491"
+    },
+    {
+      "procedure_id": "infant-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5399",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5488"
+    },
+    {
+      "procedure_id": "infant-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5399",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5489"
+    },
+    {
+      "procedure_id": "infant-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-abnormally-pale-skin-body-is-floppy-and-rigid",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5307",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5391"
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5307",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5392"
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5629",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5826"
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5629",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5829"
+    },
+    {
+      "procedure_id": "infant-additional-sounds-when-breathing-or-breathing-too-fast",
+      "choice_source_shape_id": "5629",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5832"
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "choice_source_shape_id": "5399",
+      "result_code": "0",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5491"
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "choice_source_shape_id": "5399",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5488"
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "choice_source_shape_id": "5399",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5489"
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "choice_source_shape_id": "5617",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-agitation",
+      "choice_source_shape_id": "5617",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-blue-skin",
+      "choice_source_shape_id": "5307",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5391"
+    },
+    {
+      "procedure_id": "infant-blue-skin",
+      "choice_source_shape_id": "5307",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5392"
+    },
+    {
+      "procedure_id": "infant-blue-skin",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-blue-skin",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5307",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5391"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5307",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5392"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5629",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5826"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5629",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5829"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5629",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5832"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5852",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-breathing-is-absent-irregular-or-too-slow",
+      "choice_source_shape_id": "5852",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 3,
+      "selected_router_source_shape_id": "5392"
+    },
+    {
+      "procedure_id": "infant-confusion-difficult-to-rouse-unresponsive-to-touch",
+      "choice_source_shape_id": "4923",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5007"
+    },
+    {
+      "procedure_id": "infant-confusion-difficult-to-rouse-unresponsive-to-touch",
+      "choice_source_shape_id": "4923",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5006"
+    },
+    {
+      "procedure_id": "infant-confusion-difficult-to-rouse-unresponsive-to-touch",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-confusion-difficult-to-rouse-unresponsive-to-touch",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5554"
+    },
+    {
+      "procedure_id": "infant-control-of-life-threatening-bleeding",
+      "choice_source_shape_id": "5471",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5555"
+    },
+    {
+      "procedure_id": "infant-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5603"
+    },
+    {
+      "procedure_id": "infant-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5561"
+    },
+    {
+      "procedure_id": "infant-drowning",
+      "choice_source_shape_id": "5473",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5562"
+    },
+    {
+      "procedure_id": "infant-lethargy",
+      "choice_source_shape_id": "5537",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5631"
+    },
+    {
+      "procedure_id": "infant-lethargy",
+      "choice_source_shape_id": "5537",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5632"
+    },
+    {
+      "procedure_id": "infant-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "5307",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "6051"
+    },
+    {
+      "procedure_id": "infant-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "5307",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5392"
+    },
+    {
+      "procedure_id": "infant-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-opiate-or-opioid-poisoning",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "decision_local_geometry",
+      "candidate_count": 2,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-seizures",
+      "choice_source_shape_id": "5650",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5631"
+    },
+    {
+      "procedure_id": "infant-seizures",
+      "choice_source_shape_id": "5650",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5735"
+    },
+    {
+      "procedure_id": "infant-seizures",
+      "choice_source_shape_id": "5650",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5738"
+    },
+    {
+      "procedure_id": "infant-unresponsive-to-touch-and-irregular-breathing",
+      "choice_source_shape_id": "5508",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5592"
+    },
+    {
+      "procedure_id": "infant-unresponsive-to-touch-and-irregular-breathing",
+      "choice_source_shape_id": "5508",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "5591"
+    },
+    {
+      "procedure_id": "infant-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "A",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4578"
+    },
+    {
+      "procedure_id": "infant-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "B",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4583"
+    },
+    {
+      "procedure_id": "infant-vomiting",
+      "choice_source_shape_id": "4234",
+      "result_code": "C",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4586"
+    },
+    {
+      "procedure_id": "infant-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "1",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4681"
+    },
+    {
+      "procedure_id": "infant-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "2",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4685"
+    },
+    {
+      "procedure_id": "infant-vomiting",
+      "choice_source_shape_id": "4596",
+      "result_code": "3",
+      "status": "resolved",
+      "method": "only_source_router",
+      "candidate_count": 1,
+      "selected_router_source_shape_id": "4688"
+    }
+  ]
+}

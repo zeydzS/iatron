@@ -1,0 +1,20 @@
+{
+  "flow_count": 116,
+  "current_source_hash_count": 116,
+  "canonical_asset_count": 97,
+  "media_association_repaired_count": 658,
+  "media_association_review_required_count": 103,
+  "catalog_procedure_count": 111,
+  "menu_choice_count": 322,
+  "source_semantic_node_count": 3323,
+  "represented_semantic_node_count": 3323,
+  "missing_semantic_node_count": 0,
+  "source_connector_count": 1579,
+  "source_image_placement_count": 1004,
+  "guided_image_placement_count": 1004,
+  "resolved_branch_code_count": 253,
+  "unresolved_branch_code_count": 1,
+  "all_flows_matched_current_corpus": true,
+  "all_assets_rights_review_required": true,
+  "patient_data_included": false
+}

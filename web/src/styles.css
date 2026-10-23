@@ -1,0 +1,623 @@
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./assets/fonts/font-0.woff2) format("truetype");
+}
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./assets/fonts/font-1.woff2) format("truetype");
+}
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./assets/fonts/font-2.woff2) format("truetype");
+}
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./assets/fonts/font-3.woff2) format("truetype");
+}
+@font-face {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./assets/fonts/font-4.woff2) format("truetype");
+}
+
+:root {
+  font-family: "DM Sans", system-ui, sans-serif;
+  color: #073b36;
+  background: #ecf7f3;
+  font-synthesis: none;
+  --ink: #073b36;
+  --green: #0f7669;
+  --bright: #14a97b;
+  --mint: #dff2eb;
+  --line: #c9e3da;
+  --paper: #fff;
+  --warm: #fff8ed;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background:
+    radial-gradient(
+      circle at 8% 4%,
+      transparent 0 170px,
+      rgba(39, 137, 116, 0.08) 171px 172px,
+      transparent 173px
+    ),
+    radial-gradient(
+      circle at 95% 72%,
+      transparent 0 250px,
+      rgba(39, 137, 116, 0.07) 251px 252px,
+      transparent 253px
+    ),
+    #ecf7f3;
+}
+button,
+input {
+  font: inherit;
+}
+button {
+  color: inherit;
+}
+#app-shell {
+  min-height: 100vh;
+}
+#app-header {
+  height: 84px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1180px;
+  margin: auto;
+  padding: 0 28px;
+}
+#brand {
+  border: 0;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 20px;
+  cursor: pointer;
+}
+#brand span {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 14px;
+  background: var(--green);
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+}
+#header-actions {
+  display: flex;
+  gap: 8px;
+}
+:is(#review-path, #restart-path),
+#procedure-title button {
+  border: 0;
+  background: transparent;
+  color: var(--green);
+  font-weight: 700;
+  cursor: pointer;
+  padding: 10px;
+}
+#home,
+#pathway {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 48px 28px 90px;
+}
+#home-intro {
+  max-width: 720px;
+  margin-bottom: 38px;
+}
+:is(#home-eyebrow, #step-eyebrow, #completion-eyebrow, #review-eyebrow) {
+  color: var(--green);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin: 0 0 12px;
+}
+#home h1,
+#step-card h1,
+#completion-card h1 {
+  font:
+    400 clamp(38px, 6vw, 66px)/1.02 "DM Serif Display",
+    serif;
+  letter-spacing: -0.02em;
+  margin: 0 0 18px;
+}
+#home-intro > p:last-child {
+  font-size: 19px;
+  line-height: 1.6;
+  color: #52736e;
+  margin: 0;
+}
+#age-tabs {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 0 0 22px;
+}
+#age-tabs button {
+  background: rgba(255, 255, 255, 0.76);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 18px;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.2s;
+}
+#age-tabs button:hover,
+#age-tabs button[aria-pressed="true"] {
+  border-color: var(--green);
+  background: var(--green);
+  color: #fff;
+  transform: translateY(-2px);
+}
+#age-tabs strong,
+#age-tabs span {
+  display: block;
+}
+#age-tabs span {
+  font-size: 13px;
+  opacity: 0.7;
+  margin-top: 4px;
+}
+#search {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 0 18px;
+  margin: 0 0 28px;
+}
+#search span {
+  font-size: 25px;
+  color: var(--green);
+}
+#search input {
+  width: 100%;
+  height: 58px;
+  border: 0;
+  outline: 0;
+  color: var(--ink);
+  font-size: 16px;
+  background: transparent;
+}
+#procedure-heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 14px;
+}
+#procedure-heading h2 {
+  font-size: 19px;
+  margin: 0;
+}
+#procedure-heading span {
+  display: grid;
+  place-items: center;
+  min-width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  background: var(--mint);
+  font-size: 12px;
+  font-weight: 700;
+}
+#procedure-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+#procedure-list button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 76px;
+  background: #fff;
+  border: 1px solid transparent;
+  border-radius: 18px;
+  padding: 17px 20px;
+  text-align: left;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 8px 30px rgba(7, 59, 54, 0.04);
+  transition: 0.2s;
+}
+#procedure-list button:hover {
+  border-color: #79b9aa;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 34px rgba(7, 59, 54, 0.09);
+}
+#procedure-list b {
+  font-size: 22px;
+  color: var(--bright);
+}
+#procedure-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+#procedure-title p {
+  margin: 0;
+  text-align: right;
+  color: #52736e;
+  font-size: 14px;
+}
+#progress-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-weight: 700;
+  color: #47716a;
+  margin-bottom: 8px;
+}
+#progress-track {
+  height: 7px;
+  background: #d7ebe4;
+  border-radius: 99px;
+  overflow: hidden;
+  margin-bottom: 28px;
+}
+#progress-track span {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--green), var(--bright));
+  border-radius: inherit;
+  transition: width 0.3s;
+}
+#step-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 38%);
+  gap: 42px;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  border-radius: 34px;
+  padding: clamp(28px, 5vw, 54px);
+  box-shadow: 0 22px 60px rgba(7, 59, 54, 0.09);
+}
+#step-card:not(:has(#step-media)) {
+  grid-template-columns: 1fr;
+}
+#step-card[data-urgent="true"] {
+  border-top: 7px solid #e26a43;
+}
+#source-copy {
+  font-size: clamp(20px, 2.5vw, 29px);
+  line-height: 1.45;
+  font-weight: 500;
+}
+#source-copy p {
+  margin: 0 0 18px;
+}
+#source-copy p:first-child {
+  font:
+    400 clamp(34px, 4.5vw, 54px)/1.08 "DM Serif Display",
+    serif;
+}
+#source-copy [id^="source-bullet-"] {
+  font:
+    500 18px/1.55 "DM Sans",
+    sans-serif;
+  padding-left: 25px;
+  position: relative;
+}
+#source-copy [id^="source-bullet-"]:before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--bright);
+  position: absolute;
+  left: 2px;
+  top: 0.65em;
+}
+#step-media {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-self: start;
+}
+#step-media img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: contain;
+  background: #f5fbf9;
+  border: 1px solid #dfeee9;
+  border-radius: 24px;
+  padding: 12px;
+}
+#options {
+  display: grid;
+  gap: 10px;
+  margin-top: 28px;
+}
+#options button {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 64px;
+  border: 1px solid var(--line);
+  background: #f8fcfa;
+  border-radius: 17px;
+  padding: 14px 16px;
+  text-align: left;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.16s;
+}
+#options button:hover,
+#options button[aria-pressed="true"] {
+  border-color: var(--green);
+  background: #e8f7f1;
+}
+#options i {
+  display: grid;
+  place-items: center;
+  width: 25px;
+  height: 25px;
+  flex: 0 0 25px;
+  border: 2px solid #8bb8ad;
+  border-radius: 8px;
+  color: #fff;
+  font-style: normal;
+}
+#options button[aria-pressed="true"] i {
+  background: var(--green);
+  border-color: var(--green);
+}
+#route-message {
+  background: #fff2e2;
+  color: #8b4807;
+  border-radius: 13px;
+  padding: 13px 15px;
+  line-height: 1.45;
+}
+#path-controls {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 22px;
+  position: sticky;
+  bottom: 16px;
+  background: rgba(236, 247, 243, 0.92);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(201, 227, 218, 0.8);
+  border-radius: 22px;
+  padding: 12px;
+}
+:is(#retry-pathway, #completion-review, #continue-step),
+:is(#restart-procedure, #previous-step, #close-review) {
+  min-height: 52px;
+  border-radius: 15px;
+  padding: 0 24px;
+  font-weight: 700;
+  cursor: pointer;
+}
+:is(#retry-pathway, #completion-review, #continue-step) {
+  background: var(--green);
+  border: 1px solid var(--green);
+  color: #fff;
+}
+:is(#restart-procedure, #previous-step, #close-review) {
+  background: #fff;
+  border: 1px solid var(--line);
+}
+#app-shell button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+#completion-card {
+  background: #fff;
+  border-radius: 34px;
+  padding: clamp(34px, 6vw, 72px);
+  text-align: center;
+  box-shadow: 0 22px 60px rgba(7, 59, 54, 0.08);
+}
+#completion-card > p:not(#completion-eyebrow) {
+  font-size: 18px;
+  color: #52736e;
+}
+#completion-mark {
+  display: grid;
+  place-items: center;
+  margin: 0 auto 24px;
+  width: 72px;
+  height: 72px;
+  border-radius: 24px;
+  background: var(--green);
+  color: #fff;
+  font-size: 34px;
+}
+#completion-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 30px;
+}
+#drawer-backdrop {
+  position: fixed;
+  z-index: 20;
+  inset: 0;
+  background: rgba(4, 35, 32, 0.36);
+  display: flex;
+  justify-content: flex-end;
+}
+#path-drawer {
+  width: min(520px, 100%);
+  height: 100%;
+  background: #f8fcfa;
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: -20px 0 60px rgba(0, 0, 0, 0.14);
+}
+#drawer-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 22px;
+}
+#drawer-header h2 {
+  font:
+    400 34px/1.1 "DM Serif Display",
+    serif;
+  margin: 0;
+}
+#drawer-header > button {
+  border: 0;
+  background: #e1f1eb;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  font-size: 26px;
+  cursor: pointer;
+}
+#history-list {
+  overflow: auto;
+  display: grid;
+  gap: 9px;
+  flex: 1;
+}
+#history-list > button {
+  display: grid;
+  grid-template-columns: 32px 1fr 24px;
+  gap: 12px;
+  align-items: start;
+  background: #fff;
+  border: 1px solid #dcebe6;
+  border-radius: 17px;
+  padding: 15px;
+  text-align: left;
+  cursor: pointer;
+}
+#history-list > button[aria-current="step"] {
+  border-color: var(--green);
+  background: #ebf8f3;
+}
+#history-list > button > span {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 9px;
+  background: var(--green);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+}
+#history-list strong,
+#history-list small {
+  display: block;
+}
+#history-list strong {
+  line-height: 1.4;
+}
+#history-list small {
+  color: #4e756f;
+  margin-top: 6px;
+  line-height: 1.4;
+}
+#close-review {
+  margin-top: 16px;
+}
+:is(#loading-state, #error-state) {
+  max-width: 600px;
+  margin: 16vh auto;
+  padding: 36px;
+  text-align: center;
+}
+#error-state {
+  background: #fff;
+  border-radius: 28px;
+}
+#error-state h1 {
+  font-family: "DM Serif Display", serif;
+}
+
+@media (max-width: 760px) {
+  #app-header {
+    height: 70px;
+    padding: 0 18px;
+  }
+  #header-actions #restart-path {
+    display: none;
+  }
+  #home,
+  #pathway {
+    padding: 28px 16px 80px;
+  }
+  #home h1 {
+    font-size: 43px;
+  }
+  #age-tabs {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  #procedure-list {
+    grid-template-columns: 1fr;
+  }
+  #procedure-title {
+    align-items: flex-start;
+  }
+  #procedure-title p {
+    max-width: 55%;
+  }
+  #step-card {
+    grid-template-columns: 1fr;
+    gap: 25px;
+    border-radius: 25px;
+    padding: 25px;
+  }
+  #step-media {
+    grid-row: 2;
+  }
+  #source-copy {
+    font-size: 21px;
+  }
+  #source-copy p:first-child {
+    font-size: 36px;
+  }
+  #path-controls {
+    bottom: 8px;
+  }
+  #path-controls button {
+    flex: 1;
+    padding: 0 12px;
+  }
+  #completion-actions {
+    flex-direction: column;
+  }
+  #path-drawer {
+    padding: 22px 16px;
+  }
+  #brand strong {
+    display: none;
+  }
+}

@@ -108,7 +108,7 @@ test("front end is guided-only and does not truncate source lines", async () => 
   const source = await readFile(new URL("../web/src/main.tsx", import.meta.url), "utf8");
   assert.doesNotMatch(source, /CompleteScheme|full_scheme|blockscheme|diagram viewer/iu);
   assert.doesNotMatch(source, /split\("\\n"\)\.slice/gu);
-  assert.match(source, /<TextContent text=\{current\.text\}/u);
+  assert.match(source, /<TextContent text=\{activeNode\.text\}/u);
   assert.match(source, /Review path/u);
   assert.match(source, /Restart/u);
 });

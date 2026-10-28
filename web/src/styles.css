@@ -354,6 +354,21 @@ button {
   border-radius: 24px;
   padding: 12px;
 }
+
+#source-image-review {
+  margin: 20px;
+}
+
+#source-image-review figure {
+  margin: 16px 0;
+}
+
+#source-image-review img {
+  max-width: 100%;
+  width: 260px;
+  height: 200px;
+  object-fit: contain;
+}
 #options {
   display: grid;
   gap: 10px;

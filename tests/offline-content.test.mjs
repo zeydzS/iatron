@@ -4,10 +4,18 @@ import test from "node:test";
 import ts from "typescript";
 
 const libraryText = await readFile(
-  new URL("../../mobile/src/data/library.json", import.meta.url),
+  new URL("../web/src/data/library.json", import.meta.url),
   "utf8",
 );
 const library = JSON.parse(libraryText);
+test("website bundle exactly matches the native library", async () => {
+  assert.deepEqual(
+    library,
+    JSON.parse(
+      await readFile(new URL("../../mobile/src/data/library.json", import.meta.url), "utf8"),
+    ),
+  );
+});
 const source = await readFile(
   new URL("../../mobile/src/services/pathwayLibrary.ts", import.meta.url),
   "utf8",
@@ -46,12 +54,45 @@ test("native loader serves every procedure locally and honors cancellation", asy
 });
 
 test("packaged library exactly preserves all generated flow content", async () => {
+  const fresh = library.provenance?.kind === "fresh-visio-extraction";
   for (const [key, flow] of Object.entries(library.flows)) {
     const generated = JSON.parse(
-      await readFile(new URL("../generated" + key, import.meta.url), "utf8"),
+      await readFile(
+        new URL(
+          fresh ? "../../first_aid_reextracted/runtime" + key : "../generated" + key,
+          import.meta.url,
+        ),
+        "utf8",
+      ),
     );
     assert.deepEqual(flow, generated);
   }
+});
+
+test("fresh extraction keeps uncertain pictures separate and preserves original source text", () => {
+  assert.equal(library.provenance.kind, "fresh-visio-extraction");
+  const flows = Object.values(library.flows);
+  const placements = flows.flatMap((flow) =>
+    flow.pages.flatMap((page) => page.nodes.flatMap((node) => node.media)),
+  );
+  const unassigned = flows.flatMap((flow) => flow.unassigned_media);
+  assert.equal(placements.length, 849);
+  assert.equal(unassigned.length, 155);
+  const attachedIds = new Set(placements.map((image) => image.placement_id));
+  for (const image of unassigned) {
+    assert.equal(image.association_status, "needs_review");
+    assert.equal(attachedIds.has(image.placement_id), false);
+  }
+  assert.equal(
+    flows
+      .flatMap((flow) => flow.source_content.pages.flatMap((page) => page.nodes))
+      .filter((node) => node.text.trim()).length,
+    3323,
+  );
+  assert.equal(
+    flows.flatMap((flow) => flow.source_content.pages.flatMap((page) => page.connectors)).length,
+    1579,
+  );
 });
 
 test("production offline cache covers every illustration, font, and app file", async () => {

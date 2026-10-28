@@ -1,5 +1,12 @@
 import { spawnSync } from "node:child_process";
-import { existsSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
+
+const sourcePath = new URL("../content/source.json", import.meta.url);
+const selection = existsSync(sourcePath) ? JSON.parse(readFileSync(sourcePath, "utf8")) : null;
+const buildScript =
+  selection?.kind === "fresh-visio-extraction"
+    ? "scripts/import-visio-extraction.py"
+    : "scripts/build_data.py";
 
 const candidates = [
   process.env.IATRON_PYTHON,
@@ -9,7 +16,7 @@ const candidates = [
 
 for (const executable of candidates) {
   if (executable !== "python" && !existsSync(executable)) continue;
-  const result = spawnSync(executable, ["scripts/build_data.py"], {
+  const result = spawnSync(executable, [buildScript], {
     cwd: process.cwd(),
     encoding: "utf8",
     stdio: "inherit",
